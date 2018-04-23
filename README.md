@@ -1,3 +1,3 @@
 Git study notes
-Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.
+Git is one of version control system for tracking changes in computer files and coordinating work on those files among multiple people.
 
